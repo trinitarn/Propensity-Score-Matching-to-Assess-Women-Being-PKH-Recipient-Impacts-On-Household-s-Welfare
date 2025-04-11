@@ -1,0 +1,9 @@
+PKH or Program Keluarga Harapan is cash transfer program in Indonesia which is given to families with some characteristics. However, one regulation that people don’t often know is how that cash transfer should be given to women. But does women being the recipient has any impact on the household’s welfare? 
+Research Question: Do women as cash transfer (Program Keluarga Harapan) recipient can significantly impact the increasement in household’s total spending which increase their families’s welfare?
+Data: The dataset was from IFLS or Indonesia’s Family Life Survey wave 4. The variables which we use is a lot. For dependent variable
+The innitial hypothesis is if women are being the recipient of the cash transfer funds, the family tends to have better welfare reflected from better amount of necessary consumption in the family (Olney et al, 2022) compared if the money is received by men (Pitt & Khandker, 1998) because women are believed to be more nurturing to her family members (Duflo, 2000) and because how social capital is more embraced among women (Mohiuddin, 1993)
+Methodolody Used: Impact evaluation will be done for this project. The tool that I’ll be using is Difference in Difference or DID where I’ll analyze the impact on a policy on the treatment group compared to the control group.
+Progress done: Before analyzing the impact, I’ll match the treatment group with the control group to make sure that they are comparable. The tool I’ll use to match the sample is Propensity Score Matching or PSM. 
+So far, I’ve defined the treatment group (households which have adult women in the fourth wafe but no adult women in the fifth wave).
+After defining the treatment group by the variable TREAT, I matched the treatment group and control group with a lot of covariates, which are defined in the previous slides.
+A limitation that I face is the high standard error due to a little sample number in the control group. 
