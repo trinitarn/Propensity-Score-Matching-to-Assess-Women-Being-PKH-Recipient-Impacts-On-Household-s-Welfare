@@ -31,6 +31,7 @@ The innitial hypothesis is if women are being the recipient of the cash transfer
 **Structure:**
 - **Unit of Analysis:** Household
 - **Key Data Files:**
+
 ![Dataset I Used](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/Dataset%20Used.png)
  
 
