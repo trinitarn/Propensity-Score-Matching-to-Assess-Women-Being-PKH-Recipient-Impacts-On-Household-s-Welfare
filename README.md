@@ -1,5 +1,8 @@
 # Impact of Women as PKH Beneficiaries on Household Consumption in Indonesia
 
+## A Little Disclaimer:
+This was supposed to be my thesis topic. However, the data is not enough to be considered statistically significant. Please focus more on the code and result rather the writing. Thank you.
+
 ## 📄 Project Description
 This project examines whether assigning women as the primary recipients of Indonesia’s *Program Keluarga Harapan* (PKH) — a conditional cash transfer program — leads to greater household welfare compared to assigning male recipients.  
 
@@ -28,7 +31,7 @@ The innitial hypothesis is if women are being the recipient of the cash transfer
 **Structure:**
 - **Unit of Analysis:** Household
 - **Key Data Files:**
-![Dataset I Used](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20State.png)
+![Dataset I Used](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/Dataset%20Used.png)
  
 
 ## 📈 Insight Summary
@@ -43,3 +46,7 @@ The innitial hypothesis is if women are being the recipient of the cash transfer
 
 ## Research Limitation
 A limitation that I face is the high standard error due to a little sample number in the control group. 
+
+## STEPS I MADE:
+1. [These](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/Dataset%20Used.png) are the datasets I used on making the [compiled dataset](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/ready_bgt.dta). This is the [code](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/1.do) in STATA by the way.
+2. Then, I wrote the thing. [Here's](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/Final%20Product_Indonesia.pdf) the Indonesian's version (the original one), and [here's](https://github.com/trinitarn/Propensity-Score-Matching-to-Assess-Women-Being-PKH-Recipient-Impacts-On-Household-s-Welfare/blob/main/Final%20Product_English.pdf) the english version.
